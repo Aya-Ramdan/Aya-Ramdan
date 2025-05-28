@@ -1,6 +1,6 @@
 ## Hello, World! 👋  
-##I'm Aya Ramadan
-
+I'm Aya Ramadan
+---
 Turning ideas into interactive web experiences using React.js for the frontend and Django for the backend.
 
 ---
