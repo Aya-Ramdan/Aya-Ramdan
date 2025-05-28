@@ -1,5 +1,5 @@
 ## Hello, World! 👋  
-I'm [Aya Ramadan]
+I'm Aya Ramadan
 
 A passionate Full-Stack Web Developer crafting web applications using React.js & Django
 
