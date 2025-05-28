@@ -1,8 +1,7 @@
 ## Hello, World! 👋  
 I'm Aya Ramadan
 
-A passionate Full-Stack Web Developer crafting web applications using React.js & Django
-
+Turning ideas into interactive web experiences using React.js for the frontend and Django for the backend.
 
 ---
 
