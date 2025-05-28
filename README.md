@@ -1,9 +1,8 @@
 ## Hello, World! 👋  
-I'm [Your Name]
+I'm [Aya Ramadan]
 
 A passionate Full-Stack Web Developer crafting web applications using React.js & Django
 
-<img src="https://media.giphy.com/media/your-gif-url.gif" width="100%" />
 
 ---
 
@@ -33,9 +32,6 @@ A passionate Full-Stack Web Developer crafting web applications using React.js &
 ---
 
 ### 📂 Projects
-#### 🔐 Mirrorz
-Collaborative graded plan management app built with Django and REST API.  
-[Repo](your-project-link) • [Live Demo](your-live-link)
 
 #### 💰 Kareem Fund
 A platform for managing donations, donors, and beneficiaries.  
